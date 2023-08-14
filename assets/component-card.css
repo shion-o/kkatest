@@ -203,6 +203,8 @@
 .card__heading {
   margin-top: 0;
   margin-bottom: 0;
+  background-color: red;
+  font-size: 40px;
 }
 
 .card__heading:last-child {
